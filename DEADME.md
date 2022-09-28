@@ -10,9 +10,8 @@ The user has the option to take a picture and show it in a modal.
 
 ## Preview
 
-![image](https://user-images.githubusercontent.com/45097821/192511201-aa086978-a047-4f99-845b-55a7e08d635e.png)
-![image](https://user-images.githubusercontent.com/45097821/192511433-10fd159d-4b7c-40f2-b69e-5129137a5d88.png)
-![image](https://user-images.githubusercontent.com/45097821/192511544-58263dad-2992-4e04-9495-ed8883474b93.png)
+![image](https://user-images.githubusercontent.com/45097821/192802039-bf0212b4-174a-4a24-9738-a63451e502fa.png)
+![image](https://user-images.githubusercontent.com/45097821/192802351-cb63ee65-aa11-4b05-96f6-25623e65d67b.png)
 
 
 ## Libraries
